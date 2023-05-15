@@ -1,2 +1,2 @@
 # STOPWATCH-JS-
-Simple and easiest stopwatch you can made. SASS + HTML5 + vanilla JS.
+Simple and easiest stopwatch you can make. SASS + HTML5 + vanilla JS.
